@@ -1,0 +1,12 @@
+.parent {
+	border: 1px solid red;
+	text-align: justify;
+    width: 500px;
+    padding: 20px;
+}
+img {
+	float: right;
+	height: 100px;
+	border: 1px solid green;
+    margin: 20px 0 20px 20px;
+}
